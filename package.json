@@ -1,7 +1,7 @@
 {
   "name": "sails-gong",
   "author": "Mike McNeil <mike@balderdash.co>",
-  "version": "0.10.0-rc8",
+  "version": "0.10.0-rc9",
   "description": "A fork of Sails for minor personal tinkering.",
   "homepage": "http://sailsjs.org",
   "keywords": [
