@@ -1,8 +1,8 @@
 {
-  "name": "sails",
+  "name": "sails-gong",
   "author": "Mike McNeil <mike@balderdash.co>",
   "version": "0.10.0-rc8",
-  "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
+  "description": "A fork of Sails for minor personal tinkering.",
   "homepage": "http://sailsjs.org",
   "keywords": [
     "mvc",
