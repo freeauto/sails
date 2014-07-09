@@ -1,7 +1,7 @@
 {
   "name": "sails-gong",
   "author": "Mike McNeil <mike@balderdash.co>",
-  "version": "0.10.0-rc9",
+  "version": "0.10.0-rc10",
   "description": "A fork of Sails for minor personal tinkering.",
   "homepage": "http://sailsjs.org",
   "keywords": [
@@ -71,7 +71,7 @@
     "semver": "~2.2.1",
     "skipper": "~0.1.2",
     "socket.io": "~0.9.14",
-    "waterline-gong": "^0.10.0-rc15"
+    "waterline-gong": "^0.10.0-rc16"
   },
   "devDependencies": {
     "root-require": "~0.2.0",
